@@ -10,8 +10,8 @@ import "./globals.css";
 const inter = Inter({ subsets: ["latin"] });
 
 export const metadata: Metadata = {
-  title: "Video Conference",
-  description: "Video Conference",
+  title: "Yoom",
+  description: "Video Conference ",
   icons: {
     icon: "/icons/logo.svg",
   },
